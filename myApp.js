@@ -1,9 +1,9 @@
 let express = require('express');
 let app = express();
 
-let newName = "Hello World";
+let x = "Hello World";
 
-console.log(newName);
+console.log(x);
 
 
 
